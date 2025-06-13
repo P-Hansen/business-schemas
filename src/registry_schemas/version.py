@@ -24,7 +24,11 @@ Development release segment: .devN
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 __version__ = '2.18.49'  # pylint: disable=invalid-name
 =======
 __version__ = '2.18.45'  # pylint: disable=invalid-name
 >>>>>>> 4d1e707 (28913 - Update intentToLiquidate Sample Data (#185))
+=======
+__version__ = '2.18.46'  # pylint: disable=invalid-name
+>>>>>>> 40579c8 (28460 - Update example data (#187))
